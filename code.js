@@ -1,4 +1,4 @@
-
+// Finished project
 
 const generate = document.querySelector('.generate');
 const qrImage = document.getElementById('qrImg')
